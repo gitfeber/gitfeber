@@ -1,7 +1,7 @@
 [![Banner](https://raw.githubusercontent.com/gitfeber/gitfeber/main/banner.png)](https://github.com/gitfeber)
 
-<h1 style="color:#6F4BF2; text-align: center;"><b>Welcome to my page!</b></h1>
-  
+<h1><b>Welcome to my page!</b></h1>
+
 ### 🧰 Languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.learn-c.org/de/)
