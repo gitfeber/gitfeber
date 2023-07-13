@@ -21,8 +21,12 @@
 
 ### 🐧 Operating Systems
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://archlinux.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/de-de/windows)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/de-de/windows)
 [![macOS](https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=macos&logoColor=black)](https://www.apple.com/de/macos/ventura/)
+
+### 💻 Machines
+[![Apple Macbook Pro 14 M2](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/de/shop/buy-mac/macbook-pro/14%22-space-grau-apple-m2-pro-mit-10-core-cpu-und-16-core-gpu-512gb)
+[![Dell Latitude 5530](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.dell.com/de-de/shop/dell-notebooks/latitude-5530-laptop/spd/latitude-15-5530-laptop/gxctol5530mlk15emea_vp?redirectTo=SOC)
 
 ---
 ### 📊 Stats
